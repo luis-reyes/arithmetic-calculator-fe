@@ -2,12 +2,16 @@
 
 This is a Vue.js application that provides a calculator functionality and user authentication features. It allows users to perform various mathematical operations and manage their transactions.
 
+## Live version
+- http://ec2-18-219-245-237.us-east-2.compute.amazonaws.com:5173/login
+
 ## Features
 
 - Calculator: Perform basic mathematical operations such as addition, subtraction, multiplication, and division.
 - User Authentication: Register and login to access the application.
 - Secure Transactions: Users can perform mathematical calculations securely by authenticating their requests.
 - Error Handling: Display appropriate error messages when inputs are invalid or operations fail.
+- Hosting: Amazon EC2
 
 ## Technologies Used
 
