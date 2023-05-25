@@ -3,7 +3,7 @@
 This is a Vue.js application that provides a calculator functionality and user authentication features. It allows users to perform various mathematical operations and manage their transactions.
 
 ## Live version
-- http://ec2-18-219-245-237.us-east-2.compute.amazonaws.com:5173/login
+- [LIVE VERSION](http://ec2-18-219-245-237.us-east-2.compute.amazonaws.com:5173/login)
 
 ## Features
 
@@ -42,3 +42,11 @@ The application requires the following configuration:
   - `store`: Contains Vuex store modules.
   - `router`: Contains Vue Router configuration.
   - `assets`: Contains static assets such as images and CSS files.
+
+## Improvements
+
+- Implement user profiles to allow users to update their information.
+- Enhance the UI with more visually appealing styles and animations.
+- Implement error logging and monitoring to track application errors and performance.
+- Add unit tests and integration tests to ensure the reliability of the application.
+- Optimize API requests by implementing caching mechanisms.
