@@ -7,6 +7,10 @@ import store from './store';
 
 const routes = [
   {
+    path: '/',
+    redirect: '/login' // Redirect the root URL to the login page
+  },
+  {
     path: '/transactions',
     name: 'Transactions',
     component: Transactions,

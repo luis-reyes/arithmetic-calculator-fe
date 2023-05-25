@@ -1,5 +1,5 @@
 module.exports = {
-    // other configurations...
+    publicPath: '/arithmetic-calculator-fe',
     devServer: {
       proxy: {
         '/api': {
